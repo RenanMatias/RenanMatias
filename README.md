@@ -1,7 +1,7 @@
 # Hi there 👋
 
 - 🔭 I’m currently working at Globo
-- 🌱 I’m currently learning HTML, CSS, Javascript, Python, Django
+- 🌱 I’m currently learning Spark, Hadoop, Kafka and Elasticsearch.
 - 💬 Ask me about Star Wars!
 - 📫 How to reach me: rnmatias@hotmail.com
 
@@ -29,7 +29,7 @@ Solid knowledge in the following Technologies:
 - Tests: Unittest, Pytest, Teste Funcional com Selenium;
 - Web: HTML, CSS, Javascript, Typescript, Tailwind, Bootstrap, responsive pages;
 - Process: Agile, Scrum, Kanban;
-- Dashboard: Power BI, Data Studio, tableau;
+- Dashboard: Power BI, Data Studio, Tableau;
 - Microsoft: Power Apps, Power Automate, Sharepoint, Office;
 - Others: GIT versioning, Github, sourceTree, Protocols HTTP,
 Postman, Insomnia;
