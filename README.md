@@ -21,13 +21,13 @@ for use of Bigdata architecture.
 ## 🛠 Skills
 Solid knowledge in the following Technologies:
 - Languages: Python, SQL, Java, Delphi, VB, VBA;
-- Database: MySQL, PostgreSQL;
-- Libraries and Frameworks: Pandas, Numpy, Jupyter Notebook, Docker, Django, Flask, Dotenv, Coverage, Pillow;
-- Data Orchestration: Prefect, Airflow;
+- Database: MySQL, PostgreSQL, Oracle;
+- Libraries and Frameworks: Django, React, Pandas, Numpy, Jupyter Notebook, Docker, Django Rest Framework, Flask, Dotenv, Coverage, Pillow,;
+- Data Orchestration: Apache Airflow, Prefect;
 - GCP: Bigquery, Cloud Storage, Cloud Scheduler, Pub/Sub, Cloud Function, Dataproc, Secret Manage;
 - AWS: S3, VM;
 - Tests: Unittest, Pytest, Teste Funcional com Selenium;
-- Web: HTML, CSS, Javascript, Typescript, Tailwind, Bootstrap, responsive pages;
+- Web: HTML, CSS, Javascript, Typescript, Next.js, Node.js, Tailwind, Bootstrap, responsive pages;
 - Process: Agile, Scrum, Kanban;
 - Dashboard: Power BI, Data Studio, Tableau;
 - Microsoft: Power Apps, Power Automate, Sharepoint, Office;
