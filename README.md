@@ -1,9 +1,9 @@
 # Hi there 👋
 
-- 🔭 I’m currently working at Globo
-- 🌱 I’m currently learning Spark, Hadoop, Kafka and Elasticsearch.
+- 🔭 I’m currently working at [TOTVS](https://en.totvs.com/);
+- 🌱 I’m currently learning React, React Native, Terrform, Next.js, Vercel Plataform;
 - 💬 Ask me about Star Wars!
-- 📫 How to reach me: rnmatias@hotmail.com
+- 📫 How to reach me: rnmatias@hotmail.com;
 
 
 ## 🚀 About me
