@@ -62,9 +62,3 @@
 ###
 
 <p align="left">Solid knowledge in the following Technologies:<br>- Languages: Python, SQL, Java, Delphi, VB, VBA;<br>- Database: MySQL, PostgreSQL, Oracle;<br>- Libraries and Frameworks: Django, React, Pandas, Numpy, Jupyter Notebook, Docker, Django Rest Framework, Flask, Dotenv, Coverage, Pillow,;<br>- Data Orchestration: Apache Airflow, Prefect;<br>- GCP: Bigquery, Cloud Storage, Cloud Scheduler, Pub/Sub, Cloud Function, Dataproc, Secret Manage;<br>- AWS: S3, VM;<br>- Tests: Unittest, Pytest, Teste Funcional com Selenium;<br>- Web: HTML, CSS, Javascript, Typescript, Next.js, Node.js, Tailwind, Bootstrap, responsive pages;<br>- Process: Agile, Scrum, Kanban;<br>- Dashboard: Power BI, Data Studio, Tableau;<br>- Microsoft: Power Apps, Power Automate, Sharepoint, Office;<br>- Others: GIT versioning, Github, sourceTree, Protocols HTTP, Postman, Insomnia;</p>
-
-###
-
-<img src="https://raw.githubusercontent.com/RenanMatias/RenanMatias/output/snake.svg" alt="Snake animation" />
-
-###
