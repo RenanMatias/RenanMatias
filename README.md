@@ -28,8 +28,8 @@
 <ul>
   <li>🔭 I’m currently working at <a href="https://en.totvs.com/">TOTVS</a>;</li>
   <li>🌱 I’m currently learning React, React Native, Terrform, Next.js, Vercel Plataform;</li>
-  <li>- 💬 Ask me about Star Wars!;</li>
-  <li>- 📫 How to reach me: rnmatias@hotmail.com.</li>
+  <li>💬 Ask me about Star Wars!;</li>
+  <li>📫 How to reach me: rnmatias@hotmail.com.</li>
 </ul>
 <p>Hello, I'm Renan Matias, a Python developer with over 5 years of experience in the technology field. My passion for technology led me to work at TOTVS, Brazil's largest technology company, where I'm having an incredible experience.</p>
 <p>I specialize in Python development, currently focusing on back-end with Django, but I also have experience in front-end and data engineering. Cloud computing is one of my main areas of expertise, particularly with the Google Cloud Platform.</p>
