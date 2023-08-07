@@ -25,8 +25,15 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-
-<p align="left">- 🔭 I’m currently working at [TOTVS](https://en.totvs.com/);<br>- 🌱 I’m currently learning React, React Native, Terrform, Next.js, Vercel Plataform;<br>- 💬 Ask me about Star Wars!<br>- 📫 How to reach me: rnmatias@hotmail.com;<br><br>I'm a developer from Brazil, currently working with a focus on data science.<br>I am a professional with 14 years of experience in the financial field<br>and performance with a focus on agile methods and data engineering<br>in the cloud (ELT, ELT, Data Lake, Data Warehouse, Streaming<br>Analytics, Data Orchestration and Database Modeling<br>Data), bringing dynamism to the development of processes.<br>I am a dedicated professional and committed to always learning the<br>as much as possible at every opportunity. Experienced in Google Cloud Platform (GCP) and AWS cloud<br>for use of Bigdata architecture.</p>
+<ul>
+  <li>🔭 I’m currently working at <a href="https://en.totvs.com/">TOTVS</a>;</li>
+  <li>🌱 I’m currently learning React, React Native, Terrform, Next.js, Vercel Plataform;</li>
+  <li>- 💬 Ask me about Star Wars!;</li>
+  <li>- 📫 How to reach me: rnmatias@hotmail.com.</li>
+</ul>
+<p>Hello, I'm Renan Matias, a Python developer with over 5 years of experience in the technology field. My passion for technology led me to work at TOTVS, Brazil's largest technology company, where I'm having an incredible experience.</p>
+<p>I specialize in Python development, currently focusing on back-end with Django, but I also have experience in front-end and data engineering. Cloud computing is one of my main areas of expertise, particularly with the Google Cloud Platform.</p>
+<p>I'm actively seeking to enhance my skills in front-end technologies like React and Typescript to create even more comprehensive and innovative solutions.</p>
 
 ###
 
@@ -61,4 +68,19 @@
 
 ###
 
-<p align="left">Solid knowledge in the following Technologies:<br>- Languages: Python, SQL, Java, Delphi, VB, VBA;<br>- Database: MySQL, PostgreSQL, Oracle;<br>- Libraries and Frameworks: Django, React, Pandas, Numpy, Jupyter Notebook, Docker, Django Rest Framework, Flask, Dotenv, Coverage, Pillow,;<br>- Data Orchestration: Apache Airflow, Prefect;<br>- GCP: Bigquery, Cloud Storage, Cloud Scheduler, Pub/Sub, Cloud Function, Dataproc, Secret Manage;<br>- AWS: S3, VM;<br>- Tests: Unittest, Pytest, Teste Funcional com Selenium;<br>- Web: HTML, CSS, Javascript, Typescript, Next.js, Node.js, Tailwind, Bootstrap, responsive pages;<br>- Process: Agile, Scrum, Kanban;<br>- Dashboard: Power BI, Data Studio, Tableau;<br>- Microsoft: Power Apps, Power Automate, Sharepoint, Office;<br>- Others: GIT versioning, Github, sourceTree, Protocols HTTP, Postman, Insomnia;</p>
+<h4>Strong knowledge in the following Technologies:</h4>
+<ul>
+  <li><strong>Languages:</strong> Python, SQL, Java, Delphi, VB, VBA;</li>
+  <li><strong>Databases:</strong> MySQL, PostgreSQL;</li>
+  <li><strong>Object-Oriented:</strong> Design Patterns, Clean Architecture, Clean Code;</li>
+  <li><strong>Libraries and Frameworks:</strong> Pandas, Numpy, Jupyter Notebook, Docker, Django, Flask, Dotenv, Coverage, Pillow;</li>
+  <li><strong>Data Orchestration:</strong> Prefect, Airflow;</li>
+  <li><strong>Google Cloud Platform (GCP):</strong> Bigquery, Cloud Storage, Cloud Scheduler, Pub/Sub, Cloud Function, Dataproc, Secret Manager;</li>
+  <li><strong>Amazon Web Services (AWS):</strong> S3, EC2;</li>
+  <li><strong>Testing:</strong> Unittest, Pytest, Functional Testing with Selenium;</li>
+  <li><strong>Web Development:</strong> HTML, CSS, JavaScript, Typescript, Tailwind, Bootstrap, responsive pages;</li>
+  <li><strong>Development Processes:</strong> Agile, Scrum, Kanban;</li>
+  <li><strong>Dashboard and Data Visualization:</strong> Power BI, Data Studio, Tableau;</li>
+  <li><strong>Microsoft:</strong> Power Apps, Power Automate, Sharepoint, Office Suite;</li>
+  <li><strong>Others:</strong> GIT version control, Github, SourceTree, HTTP Protocols, Postman, Insomnia;</li>
+</ul>
