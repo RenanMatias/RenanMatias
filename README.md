@@ -73,6 +73,7 @@
   <li><strong>Languages:</strong> Python, SQL, Java, Delphi, VB, VBA;</li>
   <li><strong>Databases:</strong> MySQL, PostgreSQL;</li>
   <li><strong>Object-Oriented:</strong> Design Patterns, Clean Architecture, Clean Code;</li>
+  <li><strong>API Documentation:</strong> Swagger, OpenAPI;</li>
   <li><strong>Libraries and Frameworks:</strong> Pandas, Numpy, Jupyter Notebook, Docker, Django, Flask, Dotenv, Coverage, Pillow;</li>
   <li><strong>Data Orchestration:</strong> Prefect, Airflow;</li>
   <li><strong>Google Cloud Platform (GCP):</strong> Bigquery, Cloud Storage, Cloud Scheduler, Pub/Sub, Cloud Function, Dataproc, Secret Manager;</li>
@@ -82,5 +83,5 @@
   <li><strong>Development Processes:</strong> Agile, Scrum, Kanban;</li>
   <li><strong>Dashboard and Data Visualization:</strong> Power BI, Data Studio, Tableau;</li>
   <li><strong>Microsoft:</strong> Power Apps, Power Automate, Sharepoint, Office Suite;</li>
-  <li><strong>Others:</strong> GIT version control, Github, SourceTree, HTTP Protocols, Postman, Insomnia;</li>
+  <li><strong>Others:</strong> GIT version control, Github, HTTP Protocols, Postman, Insomnia;</li>
 </ul>
