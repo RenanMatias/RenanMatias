@@ -1,87 +1,75 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0077B5&text=Build.%20Test.%20Deploy.&animation=fadeIn&textBg=false&descAlign=50&descAlignY=75&fontColor=FFFFFF" />
+  <h1>Hi, I'm Renan Matias 👋</h1>
+  <p><strong>Software Developer | Python Expert | Expanding to React & Next.js</strong></p>
 
-###
-
-<div align="center">
   <a href="https://www.linkedin.com/in/renan-matias-2b223848/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge" />
+  </a>
+  <a href="mailto:rnmatias@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
 </div>
 
-###
+---
+
+### 👨‍💻 About Me
+
+I am a **Software Developer** with over 8 years of experience, currently working at **TOTVS**. My journey began with a solid foundation in **Python and Cloud Computing (GCP)**, where I've built most of my career.
+
+Currently, I am **actively expanding my skillset** into the Javascript ecosystem. I'm putting a lot of effort into mastering **React, Node.js and Next.js** to become a more versatile Fullstack Developer.
+
+- 🔭 **Core Expertise:** Python (Django/Flask), SQL, and Google Cloud Platform.
+- 🚀 **Currently Deep Diving:** React, Node.js, and TypeScript.
+- 🌱 **Learning Path:** AWS, React Native, TypeScript and Terraform.
+- ⚡ **Fun Fact:** Huge **Star Wars** fan! "The Force is strong with this learner."
+- 📫 **Contact:** rnmatias@hotmail.com
+
+---
+
+### 🛠️ Tech Stack
+
+#### 🚀 Expanding My Skills (Currently Learning)
+<p align="left">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+</p>
+
+#### 🐍 Professional Expertise (Python & Cloud)
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/gcp-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge&logo=powerplatform&logoColor=white" alt="Microsoft Power Platform" />
+</p>
+
+#### ⚙️ Tools & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+</p>
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=RenanMatias.RenanMatias&"  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanMatias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanMatias&layout=compact&langs_count=7&theme=dracula" />
 </div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-<ul>
-  <li>🔭 I’m currently working at <a href="https://en.totvs.com/">TOTVS</a>;</li>
-  <li>🌱 I’m currently learning React, React Native, Terrform, Next.js, Vercel Plataform;</li>
-  <li>💬 Ask me about Star Wars!;</li>
-  <li>📫 How to reach me: rnmatias@hotmail.com.</li>
-</ul>
-<p>Hello, I'm Renan Matias, a Python developer with over 5 years of experience in the technology field. My passion for technology led me to work at TOTVS, Brazil's largest technology company, where I'm having an incredible experience.</p>
-<p>I specialize in Python development, currently focusing on back-end with Django, but I also have experience in front-end and data engineering. Cloud computing is one of my main areas of expertise, particularly with the Google Cloud Platform.</p>
-<p>I'm actively seeking to enhance my skills in front-end technologies like React and Typescript to create even more comprehensive and innovative solutions.</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" width="52" alt="googlecloud logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" width="52" alt="django logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="52" alt="jupyter logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="52" alt="tailwindcss logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=RenanMatias&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=RenanMatias&theme=dracula&hide_border=false" alt="GitHub Streak" />
 </div>
 
-###
+---
 
-<h3 align="left">🛠 Skills</h3>
-
-###
-
-<h4>Strong knowledge in the following Technologies:</h4>
-<ul>
-  <li><strong>Languages:</strong> Python, SQL, Java, Delphi, VB, VBA;</li>
-  <li><strong>Databases:</strong> MySQL, PostgreSQL;</li>
-  <li><strong>Object-Oriented:</strong> Design Patterns, Clean Architecture, Clean Code;</li>
-  <li><strong>API Documentation:</strong> Swagger, OpenAPI;</li>
-  <li><strong>Libraries and Frameworks:</strong> Pandas, Numpy, Jupyter Notebook, Docker, Django, Flask, Dotenv, Coverage, Pillow;</li>
-  <li><strong>Data Orchestration:</strong> Prefect, Airflow;</li>
-  <li><strong>Google Cloud Platform (GCP):</strong> Bigquery, Cloud Storage, Cloud Scheduler, Pub/Sub, Cloud Function, Dataproc, Secret Manager;</li>
-  <li><strong>Amazon Web Services (AWS):</strong> S3, EC2;</li>
-  <li><strong>Testing:</strong> Unittest, Pytest, Functional Testing with Selenium;</li>
-  <li><strong>Web Development:</strong> HTML, CSS, JavaScript, Typescript, Tailwind, Bootstrap, responsive pages;</li>
-  <li><strong>Development Processes:</strong> Agile, Scrum, Kanban;</li>
-  <li><strong>Dashboard and Data Visualization:</strong> Power BI, Data Studio, Tableau;</li>
-  <li><strong>Microsoft:</strong> Power Apps, Power Automate, Sharepoint, Office Suite;</li>
-  <li><strong>Others:</strong> GIT version control, Github, HTTP Protocols, Postman, Insomnia;</li>
-</ul>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RenanMatias.RenanMatias&color=0077B5" alt="Visitors" />
+</div>
